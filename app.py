@@ -28,9 +28,9 @@ Either as with the title by just creating a string (or an f-string). Or as with 
 '''
 ## Once we have these, let's call our API in order to retrieve a prediction
 
-See ? No need to load a `model.joblib` file in this app, we do not even need to know anything about Data Science in order to retrieve a prediction...
+#See ? No need to load a `model.joblib` file in this app, we do not even need to know anything about Data Science in order to retrieve a prediction...
 
-🤔 How could we call our API ? Off course... The `requests` package 💡
+#🤔 How could we call our API ? Off course... The `requests` package 💡
 #'''
 default_datetime = datetime.datetime.now()
 
